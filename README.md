@@ -48,8 +48,6 @@ TradingView Strategy Tester
 
 ## Installation & Setup Video
 - 3-minute full Installation & Setup Video of Trading-MT5-Bridge to automate Trades with Live Trade Example:
-  https://youtu.be/Op9VwIgxM8o
-
 ---
 
 ## 🎯 Features
@@ -268,7 +266,7 @@ A: One instance per symbol recommended.
 ## 🔄 File-Based Bridge (Old Version)
 
 For the older file-based bridge using Alerts.txt, see previous releases:  
-https://github.com/niiisho/TradingView-MT5-Bridge/releases/v1.0.1
+https://github.com/mastermobsven/MT5-Bridge-TradingView/releases/v1.0.1
 
 ---
 
@@ -324,7 +322,7 @@ Contributions welcome! Please:
 **Commercial Support:**  
 - 💼 Custom features & modifications  
 - 🛠️ Installation assistance  
-- 📞 Contact: contactme.ngone@gmail.com 
+- 📞 Contact: mastermobdev@gmail.com 
 
 ---
 
@@ -338,7 +336,7 @@ It helps others discover this free alternative to paid services.
 
 **Built with ❤️ by Nishant P.Garg**  
 
-**© 2025 Nishant Prakash Garg. Released under MIT License.**  
+**© 2025 Moren Blazevic. Released under MIT License.**  
  
 ---
 
