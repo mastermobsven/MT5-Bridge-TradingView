@@ -289,7 +289,7 @@ Contact: See [Support & Contact](#-support--contact) section below.
 
 **MIT License** - See LICENSE file for details.
 
-**Copyright © 2025 Nishant Prakash Garg. All rights reserved.**
+**Copyright © 2025 Moren Blazevic. All rights reserved.**
 
 
 ### Using This Project?
